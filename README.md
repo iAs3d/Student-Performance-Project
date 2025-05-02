@@ -54,7 +54,7 @@ This will:
 To launch the Streamlit web application:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 The application provides three main pages:
